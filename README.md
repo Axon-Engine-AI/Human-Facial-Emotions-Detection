@@ -1,2 +1,1 @@
-# Human-Facial-Emotions-Detection
-ML Human Facial Emotions Detection 
+# Human-Facial-Emotions-Detection-Using-Deep-Learning-CNN-Python
